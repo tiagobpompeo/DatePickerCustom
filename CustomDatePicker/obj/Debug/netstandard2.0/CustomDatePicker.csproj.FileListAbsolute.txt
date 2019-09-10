@@ -1,0 +1,12 @@
+/Users/tiagobernaiaspompeo/Documents/PROJECTS/CustomDatePicker/CustomDatePicker/obj/Debug/netstandard2.0/CustomDatePicker.csprojAssemblyReference.cache
+/Users/tiagobernaiaspompeo/Documents/PROJECTS/CustomDatePicker/CustomDatePicker/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/tiagobernaiaspompeo/Documents/PROJECTS/CustomDatePicker/CustomDatePicker/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/tiagobernaiaspompeo/Documents/PROJECTS/CustomDatePicker/CustomDatePicker/obj/Debug/netstandard2.0/CustomDatePicker.csproj.CoreCompileInputs.cache
+/Users/tiagobernaiaspompeo/Documents/PROJECTS/CustomDatePicker/CustomDatePicker/obj/Debug/netstandard2.0/CustomDatePicker.AssemblyInfoInputs.cache
+/Users/tiagobernaiaspompeo/Documents/PROJECTS/CustomDatePicker/CustomDatePicker/obj/Debug/netstandard2.0/CustomDatePicker.AssemblyInfo.cs
+/Users/tiagobernaiaspompeo/Documents/PROJECTS/CustomDatePicker/CustomDatePicker/obj/Debug/netstandard2.0/CustomDatePicker.dll
+/Users/tiagobernaiaspompeo/Documents/PROJECTS/CustomDatePicker/CustomDatePicker/obj/Debug/netstandard2.0/CustomDatePicker.pdb
+/Users/tiagobernaiaspompeo/Documents/PROJECTS/CustomDatePicker/CustomDatePicker/bin/Debug/netstandard2.0/CustomDatePicker.deps.json
+/Users/tiagobernaiaspompeo/Documents/PROJECTS/CustomDatePicker/CustomDatePicker/bin/Debug/netstandard2.0/CustomDatePicker.dll
+/Users/tiagobernaiaspompeo/Documents/PROJECTS/CustomDatePicker/CustomDatePicker/bin/Debug/netstandard2.0/CustomDatePicker.pdb
+/Users/tiagobernaiaspompeo/Documents/PROJECTS/CustomDatePicker/CustomDatePicker/obj/Debug/netstandard2.0/XamlC.stamp
